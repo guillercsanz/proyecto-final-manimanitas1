@@ -1,0 +1,104 @@
+{
+  "slogan": "USA UTUNBU, PROGRAMA MEJOR",
+  "miCuenta": "Mi cuenta",
+  "registro": "Regístrate para una experiencia más personalizada",
+  "iniciarSesion": "Iniciar Sesión",
+  "crearCuenta": "Crear Cuenta",
+  "verMalla": "Ver en Malla",
+  "verLista": "Ver en Lista",
+  "ordenar": "Ordenar",
+  "ordenarNombre": "Ordenar por Nombre",
+  "ordenarPrecio": "Ordenar por Precio",
+  "ascendente": "Ascendente",
+  "descendente": "Descendente",
+  "agregarCarrito": "Añadir al Carrito",
+  "volver": "Volver",
+  "sinDescripcion": "Sin descripción",
+  "debesIniciarSesion": "Debes iniciar sesión para agregar productos al carrito.",
+  "anadidoCarrito": "{name} se añadió al carrito.",
+  "addToCartIcon": "🛒 Añadir al Carrito",
+
+  "contacto": {
+    "titulo": "Contáctanos",
+    "subtitulo": "¿Tienes dudas? Completa el formulario y te responderemos lo antes posible.",
+    "nombre": "Nombre",
+    "email": "Correo Electrónico",
+    "telefono": "Teléfono (opcional)",
+    "mensaje": "Mensaje",
+    "enviar": "ENVIAR",
+    "alertaEnviado": "¡Mensaje enviado correctamente! Te responderemos pronto.",
+    "infoTitulo": "Información de Contacto",
+    "mensajeEnviado": "📩 ¡Mensaje enviado con éxito!",
+    "errorEnvio": "⚠ Hubo un error al enviar el mensaje. Inténtalo de nuevo.",
+    "camposIncompletos": "Por favor, completa todos los campos obligatorios.",
+    "ubicacion": "Madrid, España",
+    "tituloUbicacion": "Ubicación",
+    "verEnMaps": "Ver en Google Maps"
+  },
+  "perfil": {
+    "titulo": "Mi Cuenta",
+    "nombre": "Nombre",
+    "email": "Correo Electrónico",
+    "telefono": "Teléfono",
+    "direccion": "Dirección",
+    "metodoPago": "Método de Pago",
+    "fechaNacimiento": "Fecha de Nacimiento",
+    "cuentaCreada": "Cuenta Creada",
+    "editar": "Editar",
+    "guardarCambios": "Guardar Cambios",
+    "tarjetaCredito": "Tarjeta de Crédito",
+    "paypal": "PayPal",
+    "transferenciaBancaria": "Transferencia Bancaria",
+    "noEspecificado": "No especificado"
+  },
+
+  "menuSuperior": {
+    "bienvenido": "Bienvenido"
+  },
+
+  "carrito": {
+    "titulo": "Carrito de Compras",
+    "sinArticulos": "No tienes ningún artículo en tu carrito.",
+    "iniciarSesion": "Inicia sesión para ver tu carrito guardado.",
+    "vacio": "CARRITO VACÍO",
+    "volumen": "Volumen",
+    "quitarArticulo": "Quitar artículo",
+    "resumen": "Resumen",
+    "anadirMas": "Añade",
+    "envioGratis": "más para obtener envío gratuito",
+    "envioGratisFelicidades": "¡Felicidades! Tienes envío gratuito",
+    "subtotal": "Subtotal",
+    "gastosEnvio": "Gastos de envío",
+    "total": "Total",
+    "articulos": "artículos"
+  },
+  "botones": {
+    "iniciarSesion": "Iniciar sesión",
+    "crearCuenta": "Crear una Cuenta",
+    "tramitarPedido": "TRAMITAR PEDIDO"
+  },
+  "contact": "Contacto:",
+  "copyright": "© 2025 UTUNBU. Todos los derechos reservados.",
+  "location": "UBICACIÓN",
+  "location2":"Nuestra Ubicación 📍",
+
+  
+  "checkout": {
+    "title": " Finalizar Pedido",
+    "customerInfo": "Datos del Cliente",
+    "fullName": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "shippingAddress": "Dirección de Envío",
+    "address": "Dirección",
+    "shipToOther": "Enviar a otra dirección",
+    "newAddress": "Nueva Dirección",
+    "newPhone": "Nuevo Teléfono",
+    "orderSummary": "Resumen del Pedido",
+    "total": "Total a pagar",
+    "simulatePayment": "Simular Pago",
+    "backToCart": "Volver al carrito"
+  }
+
+
+}

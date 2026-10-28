@@ -1,0 +1,104 @@
+{
+  "slogan": "USE UTUNBU, PROGRAM BETTER",
+  "miCuenta": "My account",
+  "registro": "Register for a more personalized experience",
+  "iniciarSesion": "Log In",
+  "crearCuenta": "Create Account",
+  "verMalla": "View as Grid",
+  "verLista": "View as List",
+  "ordenar": "Sort",
+  "ordenarNombre": "Sort by Name",
+  "ordenarPrecio": "Sort by Price",
+  "ascendente": "Ascending",
+  "descendente": "Descending",
+  "agregarCarrito": "Aggregate to Cart",
+  "volver": "Back",
+  "sinDescripcion": "No description",
+  "debesIniciarSesion": "You must log in to add products to the cart.",
+  "anadidoCarrito": "{name} has been added to the cart.",
+  "addToCartIcon": "🛒 Add to Cart",
+
+  "contacto": {
+    "titulo": "Contact Us",
+    "subtitulo": "Do you have any questions? Fill out the form and we will respond as soon as possible.",
+    "nombre": "Name",
+    "email": "Email",
+    "telefono": "Phone (optional)",
+    "mensaje": "Message",
+    "enviar": "SEND",
+    "alertaEnviado": "Message sent successfully! We will get back to you soon.",
+    "infoTitulo": "Contact Information",
+    "mensajeEnviado": "📩 Message sent successfully!",
+    "errorEnvio": "⚠ There was an error sending the message. Please try again.",
+    "camposIncompletos": "Please complete all required fields.",
+    "ubicacion": "Madrid, Spain",
+    "tituloUbicacion": "Location",
+    "verEnMaps": "View on Google Maps"
+  },
+  "perfil": {
+    "titulo": "My Account",
+    "nombre": "Name",
+    "email": "Email",
+    "telefono": "Phone",
+    "direccion": "Address",
+    "metodoPago": "Payment Method",
+    "fechaNacimiento": "Date of Birth",
+    "cuentaCreada": "Account Created",
+    "editar": "Edit",
+    "guardarCambios": "Save Changes",
+    "tarjetaCredito": "Credit Card",
+    "paypal": "PayPal",
+    "transferenciaBancaria": "Bank Transfer",
+    "noEspecificado": "Not specified"
+  },
+
+  "menuSuperior": {
+    "bienvenido": "Welcome"
+  },
+
+  
+    "carrito": {
+    "titulo": "Shopping Cart",
+    "sinArticulos": "You don't have any items in your cart.",
+    "iniciarSesion": "Log in to view your saved cart.",
+    "vacio": "EMPTY CART",
+    "volumen": "Volume",
+    "quitarArticulo": "Remove Item",
+    "resumen": "Summary",
+    "anadirMas": "Add more",
+    "envioGratis": "more to get free shipping",
+    "envioGratisFelicidades": "Congratulations! You have free shipping",
+    "subtotal": "Subtotal",
+    "gastosEnvio": "Shipping Costs",
+    "total": "Total",
+    "articulos": "items"
+  },
+  "botones": {
+    "iniciarSesion": "Log In",
+    "crearCuenta": "Create an Account",
+    "tramitarPedido": "PROCEED TO CHECKOUT"
+  },
+  "contact": "Contact:",
+  "copyright": "© 2025 UTUNBU. All rights reserved.",
+  "location": "LOCATION",
+  "location2":"Our location 📍",
+  
+  "checkout": {
+    "title": " Checkout",
+    "customerInfo": "Customer Information",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "shippingAddress": "Shipping Address",
+    "address": "Address",
+    "shipToOther": "Ship to another address",
+    "newAddress": "New Address",
+    "newPhone": "New Phone Number",
+    "orderSummary": "Order Summary",
+    "total": "Total",
+    "simulatePayment": "Simulate Payment",
+    "backToCart": "Back to cart"
+  }
+  }
+  
+
